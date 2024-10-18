@@ -6,7 +6,7 @@ tags:
   - C#
   - .NET
   - APIs
-imgUrl: '../../assets/'
+imgUrl: '../../assets/record-types-cover.jpg'
 description: The record class is useful to describe data models ! But how exactly does it work, and how can we benefit from it ? Learn everything there is to know about this C# class type here !
 layout: '../../layouts/BlogPost.astro'
 ---
